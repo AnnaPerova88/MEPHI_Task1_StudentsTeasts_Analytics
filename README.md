@@ -22,5 +22,10 @@
 
 Вот пример визуализации:
 
-![Распределение user_accuracy? question_difficulty, user_question_count](Students_Analytics_1.jpg)
+![Распределение user_accuracy question_difficulty user_question_count](Students_Analytics_1.jpg)
+![Распределение user_avg_time_avg_time question_attempt_count](Students_Analytics_2.jpg)
+![Распределение difficulty interaction time_difficulty_interaction time_since_start](Students_Analytics_3.jpg)
+![Распределение rolling_user_accuracy cummulative_accuracy](Students_Analytics_1.jpg)
+
+
 
