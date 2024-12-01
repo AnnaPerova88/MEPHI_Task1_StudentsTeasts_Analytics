@@ -16,4 +16,11 @@
 #### Чтобы посмотреть код вместе с данными train - загрузите этот код на платфорсу Kaggle https://www.kaggle.com/code/mlsputnik/riiid-answer-correctness-prediction-sk/edit#Riiid!-Answer-Correctness-Prediction.-Data-Analysis-and-visualization-and-Modeling
 ### Подключите к Input - данные train, questions, lessons - так было сделано так как датасет слишком большой 
 
+# Мой проект
+
+## Визуализация графика
+
+Вот пример визуализации:
+
+![Распределение user_accuracy? question_difficulty, user_question_count](Students_Analytics_1.jpg)
 
