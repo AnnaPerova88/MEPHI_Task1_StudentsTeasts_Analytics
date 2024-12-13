@@ -1,4 +1,4 @@
-# MEPHI_Task1_StudentsTeasts_Analytics
+# MEPHI_Task1_StudentsTests_Analytics
 
 
 #### Признаки
